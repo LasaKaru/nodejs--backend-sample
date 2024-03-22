@@ -1,0 +1,20 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "sample test backend using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "keywords": [
+    "wso2",
+    "wso2",
+    "challange"
+  ],
+  "author": "lasantha karunarathne",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0"
+  }
+}
